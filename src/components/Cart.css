@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+.cart{
+   /* display: flex; */
+   text-align: center;
+=======
 .cart-container{
     text-align: center;
     justify-content: center;
@@ -39,4 +44,5 @@ ul{
 .cart-row td {
     vertical-align: middle;
     text-align: center;
+>>>>>>> 97862ddfa1dc2d8933930039482150a37e521b7a
 }

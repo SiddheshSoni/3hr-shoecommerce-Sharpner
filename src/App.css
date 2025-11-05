@@ -1,4 +1,15 @@
+<<<<<<< HEAD
+body{
+    background-color: rgb(65, 61, 61);
+    color: white;
+}
+.content{
+    margin-top: 60px;
+    padding: 1rem;
+    width: 100%;
+=======
 *{
   background-color: rgb(43, 41, 41);
   color: white;
+>>>>>>> 97862ddfa1dc2d8933930039482150a37e521b7a
 }
