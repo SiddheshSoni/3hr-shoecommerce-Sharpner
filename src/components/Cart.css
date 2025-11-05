@@ -1,4 +1,48 @@
+<<<<<<< HEAD
 .cart{
    /* display: flex; */
    text-align: center;
+=======
+.cart-container{
+    text-align: center;
+    justify-content: center;
+}
+.cart-container img{
+    width: 80px;
+}
+.cart-container h1{
+    width: 50%;
+}
+
+ul{
+    list-style: none;
+}
+.cart-row{
+    vertical-align: middle;
+}
+.cart-row input{
+    text-align: center;
+    width: 40px;    
+    height: 30px;
+}
+
+.cart-item {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.cart-title {
+    word-break: break-word;
+    white-space: normal;
+    text-align: center;
+    margin-left: 0;
+    width: 50%;
+
+}
+
+.cart-row td {
+    vertical-align: middle;
+    text-align: center;
+>>>>>>> 97862ddfa1dc2d8933930039482150a37e521b7a
 }

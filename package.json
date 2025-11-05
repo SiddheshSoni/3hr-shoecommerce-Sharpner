@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "shoe-commerce",
+=======
+  "name": "3hrs-shoe-commerce",
+>>>>>>> 97862ddfa1dc2d8933930039482150a37e521b7a
   "private": true,
   "version": "0.0.0",
   "type": "module",
